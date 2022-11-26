@@ -11,7 +11,7 @@ import IMG1 from '../../assets/portfolio1.jpg'
 const Portfolio = () => {
   const imgs ={
   
-    id:"1",
+    id:"2",
     src:`${IMG1}`
   
   }
